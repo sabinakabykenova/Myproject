@@ -5,8 +5,8 @@ public class Main {
         // Создание данных
         String[] header = {"Value 1", "Value 2", "Value 3"};
         int[][] data = {
-                {100, 200, 123},
-                {300, 400, 500}
+                {111, 222, 333},
+                {444, 555, 666}
         };
         AppData appData = new AppData(header, data);
 
